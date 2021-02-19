@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  font-size: 1.2rem;
+  line-height: 2rem;
 }
 
 .App-logo {
@@ -35,4 +37,25 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.controls {
+  margin-top: 2rem;
+}
+
+.controls > button {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.highlighted {
+  color: red;
+}
+
+.correct-word {
+  color: green;
+}
+
+.wrong-word {
+  color: orange;
 }
