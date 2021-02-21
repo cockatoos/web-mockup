@@ -42,7 +42,7 @@ function App() {
 
   const goToPhrase = (num: number) => () => {
     setPhraseNum(num);
-    setIsEnd(num + 1 === phrases.length);
+    setIsEnd(num === phrases.length);
   };
 
   const startRecording = () => {
