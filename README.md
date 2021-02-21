@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+> If the steps below do not work, try use Docker:
+>
+> ``` bash
+> $ docker-compose build
+> $ docker-compose up
+>
+> # Visit 'http://localhost:3000' to access the website.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
