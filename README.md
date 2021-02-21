@@ -1,4 +1,4 @@
-# web-mockup
+# web-mockup [![Deploy](https://github.com/cockatoos/web-mockup/actions/workflows/deploy.yml/badge.svg)](https://github.com/cockatoos/web-mockup/actions/workflows/deploy.yml)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
