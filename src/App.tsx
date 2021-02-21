@@ -99,7 +99,7 @@ function App() {
         Stop Recording
       </Button>
 
-      <Button variant="contained" color="default" onClick={goToPhrase(phraseNum - 1)} disabled={isEnd || phraseNum === 0}>
+      <Button variant="contained" color="default" onClick={goToPhrase(phraseNum - 1)} disabled={phraseNum === 0}>
         Previous Phrase
       </Button>
 
